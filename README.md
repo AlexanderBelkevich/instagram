@@ -2,4 +2,4 @@
 
 ### Проекты для практики
 
-1. Калькулятор чаевых https://codepen.io/cphemm/pen/reNwWd
+1. Калькулятор чаевых https://codepen.io/Belkevich/pen/BaoGBLO
