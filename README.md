@@ -1,1 +1,5 @@
-# instagram
+# Полезные ссылки
+
+### Ссылки на тестовые проекты
+
+1. Калькулятор чаевых https://codepen.io/cphemm/pen/reNwWd
