@@ -6,9 +6,9 @@
 
 ### Демо из постов
 
-Табы на чистом javascript https://codepen.io/Belkevich/pen/KKdrWGx
-Data-атрибуты https://codepen.io/Belkevich/pen/NWGbQqP
-Стилизация input[type="file"] https://codepen.io/Belkevich/pen/VwvwKRO
+Табы на чистом javascript https://codepen.io/Belkevich/pen/KKdrWGx &nbsp;
+Data-атрибуты https://codepen.io/Belkevich/pen/NWGbQqP &nbsp;
+Стилизация input[type="file"] https://codepen.io/Belkevich/pen/VwvwKRO &nbsp;
 Drag&Drop файлов https://codepen.io/Belkevich/pen/yLNdrXK
 Статус загрузки файла https://codepen.io/Belkevich/pen/OJVdpGe
 File API https://codepen.io/Belkevich/pen/XWbyRZO
