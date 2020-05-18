@@ -9,11 +9,11 @@
 Табы на чистом javascript https://codepen.io/Belkevich/pen/KKdrWGx<br>
 Data-атрибуты https://codepen.io/Belkevich/pen/NWGbQqP<br>
 Стилизация input[type="file"] https://codepen.io/Belkevich/pen/VwvwKRO<br>
-Drag&Drop файлов https://codepen.io/Belkevich/pen/yLNdrXK
-Статус загрузки файла https://codepen.io/Belkevich/pen/OJVdpGe
-File API https://codepen.io/Belkevich/pen/XWbyRZO
-Кастомные радиокнопки https://codepen.io/Belkevich/pen/eYNreXP
-Кастомный чекбоксы https://codepen.io/Belkevich/pen/YzXLEVm
-Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm
-Создание адаптивной таблицы https://codepen.io/Belkevich/pen/qBdrxVp
+Drag&Drop файлов https://codepen.io/Belkevich/pen/yLNdrXK<br>
+Статус загрузки файла https://codepen.io/Belkevich/pen/OJVdpGe<br>
+File API https://codepen.io/Belkevich/pen/XWbyRZO<br>
+Кастомные радиокнопки https://codepen.io/Belkevich/pen/eYNreXP<br>
+Кастомный чекбоксы https://codepen.io/Belkevich/pen/YzXLEVm<br>
+Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
+Создание адаптивной таблицы https://codepen.io/Belkevich/pen/qBdrxVp<br>
 Создание адаптивного квадрата https://codepen.io/Belkevich/pen/WNvReKG
