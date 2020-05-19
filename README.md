@@ -3,6 +3,7 @@
 ### Проекты для практики
 
 1. Калькулятор чаевых https://codepen.io/Belkevich/pen/BaoGBLO
+2. Верстка блока с иконкой https://codepen.io/Belkevich/pen/PoPxVzQ
 
 ### Демо из постов
 
