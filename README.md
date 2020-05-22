@@ -4,6 +4,7 @@
 
 1. Калькулятор чаевых https://codepen.io/Belkevich/pen/BaoGBLO
 2. Верстка блока с иконкой https://codepen.io/Belkevich/pen/PoPxVzQ
+3. Список задач https://codepen.io/Belkevich/pen/qBOggde
 
 ### Демо из постов
 
