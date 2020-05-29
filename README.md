@@ -9,6 +9,7 @@
 
 ### Демо из постов
 
+Валидация формы. Пример 4 https://codepen.io/Belkevich/pen/wvKLRjR<br>
 Валидация формы. Пример 2 https://codepen.io/Belkevich/pen/eYpxgJp<br>
 Валидация формы. Пример 1 https://codepen.io/Belkevich/pen/XWmOpmd<br>
 Табы на чистом javascript https://codepen.io/Belkevich/pen/KKdrWGx<br>
