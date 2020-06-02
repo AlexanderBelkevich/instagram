@@ -6,6 +6,7 @@
 2. Верстка блока с иконкой https://codepen.io/Belkevich/pen/PoPxVzQ
 3. Список задач https://codepen.io/Belkevich/pen/qBOggde
 4. Изменение фона на рандомный цвет в HEX-формате https://codepen.io/Belkevich/pen/WNQBzQd
+5. Генерация рандомной цитаты https://codepen.io/Belkevich/pen/ZEQzNyb
 
 ### Демо из постов
 
