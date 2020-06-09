@@ -7,6 +7,7 @@
 3. Список задач https://codepen.io/Belkevich/pen/qBOggde
 4. Изменение фона на рандомный цвет в HEX-формате https://codepen.io/Belkevich/pen/WNQBzQd
 5. Генерация рандомной цитаты https://codepen.io/Belkevich/pen/ZEQzNyb
+6. Слайдер фоновых изображений https://codepen.io/Belkevich/pen/NWxGJpE
 
 ### Демо из постов
 
