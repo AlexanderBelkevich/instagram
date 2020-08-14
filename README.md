@@ -8,6 +8,7 @@
 4. Изменение фона на рандомный цвет в HEX-формате https://codepen.io/Belkevich/pen/WNQBzQd
 5. Генерация рандомной цитаты https://codepen.io/Belkevich/pen/ZEQzNyb
 6. Слайдер фоновых изображений https://codepen.io/Belkevich/pen/NWxGJpE
+7. Фильтр и поиск по проектам https://github.com/romeojeremiah/Filter-Project (https://romeojeremiah.github.io/Filter-Project/)
 
 ### Демо из постов
 
