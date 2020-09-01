@@ -12,7 +12,8 @@
 
 ### Демо из постов
 
-Sticky меню https://codepen.io/Belkevich/pen/xxVgjPq
+Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
+Sticky меню https://codepen.io/Belkevich/pen/xxVgjPq<br>
 Валидация формы. Пример 3 https://codepen.io/Belkevich/pen/wvKLRjR<br>
 Валидация формы. Пример 2 https://codepen.io/Belkevich/pen/eYpxgJp<br>
 Валидация формы. Пример 1 https://codepen.io/Belkevich/pen/XWmOpmd<br>
