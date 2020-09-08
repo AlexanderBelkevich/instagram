@@ -12,6 +12,7 @@
 
 ### Демо из постов
 
+Fetch https://codepen.io/Belkevich/pen/ZEWrXax<br>
 Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
 Sticky меню https://codepen.io/Belkevich/pen/xxVgjPq<br>
 Валидация формы. Пример 3 https://codepen.io/Belkevich/pen/wvKLRjR<br>
