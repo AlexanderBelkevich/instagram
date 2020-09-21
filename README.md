@@ -12,6 +12,7 @@
 
 ### Демо из постов
 
+HTML5 теги. Часть 2 https://codepen.io/Belkevich/pen/RwaqpZX<br>
 HTML5 теги. Часть 1 https://codepen.io/Belkevich/pen/KKzeqPa<br>
 Fetch https://codepen.io/Belkevich/pen/ZEWrXax<br>
 Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
