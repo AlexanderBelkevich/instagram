@@ -12,6 +12,7 @@
 
 ### Демо из постов
 
+Vue JS Квадрат https://codepen.io/Belkevich/pen/GRqJYgV<br>
 Input Range https://codepen.io/Belkevich/pen/MWegpQG<br>
 HTML5 теги. Часть 2 https://codepen.io/Belkevich/pen/RwaqpZX<br>
 HTML5 теги. Часть 1 https://codepen.io/Belkevich/pen/KKzeqPa<br>
