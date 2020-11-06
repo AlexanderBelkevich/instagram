@@ -12,6 +12,7 @@
 
 ### Демо из постов
 
+"Живой" поиск https://codepen.io/Belkevich/pen/GRqXJzJ<br>
 Vue JS Квадрат https://codepen.io/Belkevich/pen/GRqJYgV<br>
 Input Range https://codepen.io/Belkevich/pen/MWegpQG<br>
 HTML5 теги. Часть 2 https://codepen.io/Belkevich/pen/RwaqpZX<br>
