@@ -12,6 +12,7 @@
 
 ### Демо из постов
 
+Светлая/темная тема CSS https://codepen.io/Belkevich/pen/LYZaRgK<br>
 "Живой" поиск https://codepen.io/Belkevich/pen/GRqXJzJ<br>
 Vue JS Квадрат https://codepen.io/Belkevich/pen/GRqJYgV<br>
 Input Range https://codepen.io/Belkevich/pen/MWegpQG<br>
