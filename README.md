@@ -12,6 +12,13 @@
 
 ### Демо из постов
 
+Сделай без JS то, что можно сделать на CSS
+Модальное окно https://codepen.io/una/pen/ObRKvq
+Переключатели https://codepen.io/una/pen/jrxbZq
+Выбор цвета https://codepen.io/una/pen/BLxjoo
+Валидация формы https://codepen.io/una/pen/amGdzK
+Аккордеон https://codepen.io/una/pen/EgLPmZ
+
 Font-weight при наведении https://codepen.io/Belkevich/pen/poEerQQ<br>
 Светлая/темная тема CSS https://codepen.io/Belkevich/pen/LYZaRgK<br>
 "Живой" поиск https://codepen.io/Belkevich/pen/GRqXJzJ<br>
