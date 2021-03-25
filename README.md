@@ -1,17 +1,8 @@
 # Полезные ссылки
 
-### Проекты для практики
-
-1. Калькулятор чаевых https://codepen.io/Belkevich/pen/BaoGBLO
-2. Верстка блока с иконкой https://codepen.io/Belkevich/pen/PoPxVzQ
-3. Список задач https://codepen.io/Belkevich/pen/qBOggde
-4. Изменение фона на рандомный цвет в HEX-формате https://codepen.io/Belkevich/pen/WNQBzQd
-5. Генерация рандомной цитаты https://codepen.io/Belkevich/pen/ZEQzNyb
-6. Слайдер фоновых изображений https://codepen.io/Belkevich/pen/NWxGJpE
-7. Фильтр и поиск по проектам https://github.com/romeojeremiah/Filter-Project (https://romeojeremiah.github.io/Filter-Project/)
-
 ### Демо из постов
 
+Создание адаптивного квадрата https://codepen.io/Belkevich/pen/WNvReKG<br><br>
 Сделай без JS то, что можно сделать на CSS
 Модальное окно https://codepen.io/una/pen/ObRKvq
 Переключатели https://codepen.io/una/pen/jrxbZq
@@ -42,4 +33,3 @@ File API https://codepen.io/Belkevich/pen/XWbyRZO<br>
 Кастомный чекбоксы https://codepen.io/Belkevich/pen/YzXLEVm<br>
 Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
 Создание адаптивной таблицы https://codepen.io/Belkevich/pen/qBdrxVp<br>
-Создание адаптивного квадрата https://codepen.io/Belkevich/pen/WNvReKG
