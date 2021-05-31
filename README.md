@@ -1,6 +1,7 @@
 # Полезные ссылки
 
 ### Демо из постов
+Drag&Drop файлов https://codepen.io/Belkevich/pen/yLNdrXK<br>
 File API https://codepen.io/Belkevich/pen/XWbyRZO<br>
 Статус загрузки файла https://codepen.io/Belkevich/pen/OJVdpGe<br>
 
@@ -29,7 +30,6 @@ Sticky меню https://codepen.io/Belkevich/pen/xxVgjPq<br>
 Табы на чистом javascript https://codepen.io/Belkevich/pen/KKdrWGx<br>
 Data-атрибуты https://codepen.io/Belkevich/pen/NWGbQqP<br>
 Стилизация input[type="file"] https://codepen.io/Belkevich/pen/VwvwKRO<br>
-Drag&Drop файлов https://codepen.io/Belkevich/pen/yLNdrXK<br>
 Кастомные радиокнопки https://codepen.io/Belkevich/pen/eYNreXP<br>
 Кастомный чекбоксы https://codepen.io/Belkevich/pen/YzXLEVm<br>
 Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
