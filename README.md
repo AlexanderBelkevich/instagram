@@ -1,6 +1,8 @@
 # Полезные ссылки
 
 ### Демо из постов
+Поделиться выбранным текстом https://codepen.io/Belkevich/pen/QWvwvKd
+
 Drag&Drop файлов https://codepen.io/Belkevich/pen/yLNdrXK<br>
 File API https://codepen.io/Belkevich/pen/XWbyRZO<br>
 Статус загрузки файла https://codepen.io/Belkevich/pen/OJVdpGe<br>
