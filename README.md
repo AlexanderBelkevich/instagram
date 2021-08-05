@@ -1,6 +1,7 @@
 # Полезные ссылки
 
 ### Демо из постов
+Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
 Drag&Drop на чистом JS https://codepen.io/Belkevich/pen/JjNJrwa<br>
 Поделиться выбранным текстом https://codepen.io/Belkevich/pen/QWvwvKd<br>
 
@@ -35,5 +36,4 @@ Sticky меню https://codepen.io/Belkevich/pen/xxVgjPq<br>
 Data-атрибуты https://codepen.io/Belkevich/pen/NWGbQqP<br>
 Кастомные радиокнопки https://codepen.io/Belkevich/pen/eYNreXP<br>
 Кастомный чекбоксы https://codepen.io/Belkevich/pen/YzXLEVm<br>
-Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
 Создание адаптивной таблицы https://codepen.io/Belkevich/pen/qBdrxVp<br>
