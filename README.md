@@ -1,6 +1,7 @@
 # Полезные ссылки
 
 ### Демо из постов
+Светлая/темная тема CSS https://codepen.io/Belkevich/pen/LYZaRgK<br>
 Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
 Drag&Drop на чистом JS https://codepen.io/Belkevich/pen/JjNJrwa<br>
 Поделиться выбранным текстом https://codepen.io/Belkevich/pen/QWvwvKd<br>
@@ -23,7 +24,6 @@ File API https://codepen.io/Belkevich/pen/XWbyRZO<br>
 Аккордеон https://codepen.io/una/pen/EgLPmZ<br>
 
 Font-weight при наведении https://codepen.io/Belkevich/pen/poEerQQ<br>
-Светлая/темная тема CSS https://codepen.io/Belkevich/pen/LYZaRgK<br>
 "Живой" поиск https://codepen.io/Belkevich/pen/GRqXJzJ<br>
 Vue JS Квадрат https://codepen.io/Belkevich/pen/GRqJYgV<br>
 Input Range https://codepen.io/Belkevich/pen/MWegpQG<br>
