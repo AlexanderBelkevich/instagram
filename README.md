@@ -1,6 +1,11 @@
 # Полезные ссылки
 
 ### Демо из постов
+#### Волны с помощью CSS
+Демо: https://codepen.io/goodkatz/pen/LYPGxQz<br>
+Про CSS анимации: https://html5book.ru/css3-animation/<br>
+Генератор cubic-bezier: http://roblaplaca.com/examples/bezierBuilder/<br><br>
+
 Светлая/темная тема CSS https://codepen.io/Belkevich/pen/LYZaRgK<br>
 Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
 Drag&Drop на чистом JS https://codepen.io/Belkevich/pen/JjNJrwa<br>
