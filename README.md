@@ -1,6 +1,8 @@
 # Полезные ссылки
 
 ### Демо из постов
+Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
+
 #### Волны с помощью CSS
 Демо: https://codepen.io/goodkatz/pen/LYPGxQz<br>
 Про CSS анимации: https://html5book.ru/css3-animation/<br>
@@ -35,7 +37,6 @@ Input Range https://codepen.io/Belkevich/pen/MWegpQG<br>
 HTML5 теги. Часть 2 https://codepen.io/Belkevich/pen/RwaqpZX<br>
 HTML5 теги. Часть 1 https://codepen.io/Belkevich/pen/KKzeqPa<br>
 Fetch https://codepen.io/Belkevich/pen/ZEWrXax<br>
-Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
 Sticky меню https://codepen.io/Belkevich/pen/xxVgjPq<br>
 Табы на чистом javascript https://codepen.io/Belkevich/pen/KKdrWGx<br>
 Data-атрибуты https://codepen.io/Belkevich/pen/NWGbQqP<br>
