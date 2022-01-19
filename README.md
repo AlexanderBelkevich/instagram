@@ -1,5 +1,12 @@
 # Полезные ссылки
 
+Сделай без JS то, что можно сделать на CSS<br>
+Модальное окно https://codepen.io/una/pen/ObRKvq<br>
+Переключатели https://codepen.io/una/pen/jrxbZq<br>
+Выбор цвета https://codepen.io/una/pen/BLxjoo<br>
+Валидация формы https://codepen.io/una/pen/amGdzK<br>
+Аккордеон https://codepen.io/una/pen/EgLPmZ<br>
+
 ### Демо из постов
 Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
 
@@ -22,13 +29,6 @@ File API https://codepen.io/Belkevich/pen/XWbyRZO<br>
 Валидация формы. Пример 2 https://codepen.io/Belkevich/pen/eYpxgJp<br>
 Валидация формы. Пример 1 https://codepen.io/Belkevich/pen/XWmOpmd<br>
 Создание адаптивного квадрата https://codepen.io/Belkevich/pen/WNvReKG<br>
-
-Сделай без JS то, что можно сделать на CSS<br>
-Модальное окно https://codepen.io/una/pen/ObRKvq<br>
-Переключатели https://codepen.io/una/pen/jrxbZq<br>
-Выбор цвета https://codepen.io/una/pen/BLxjoo<br>
-Валидация формы https://codepen.io/una/pen/amGdzK<br>
-Аккордеон https://codepen.io/una/pen/EgLPmZ<br>
 
 Font-weight при наведении https://codepen.io/Belkevich/pen/poEerQQ<br>
 "Живой" поиск https://codepen.io/Belkevich/pen/GRqXJzJ<br>
