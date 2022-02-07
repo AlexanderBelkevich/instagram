@@ -1,4 +1,5 @@
 # Полезные ссылки
+Preloader для контента https://codepen.io/Belkevich/pen/rNYWbPa<br><br>
 
 Сделай без JS то, что можно сделать на CSS<br>
 Модальное окно https://codepen.io/una/pen/ObRKvq<br>
