@@ -11,10 +11,16 @@ Preloader для контента https://codepen.io/Belkevich/pen/rNYWbPa<br>
 ### Демо из постов
 Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
 
+#### Курсы GIT
+- Курс от Javascript.ru: https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
+- Учебник по GIT на русском: https://git-scm.com/book/ru/v2
+- Practical Git For Everyday Professional Use: https://egghead.io/courses/practical-git-for-everyday-professional-use
+- Гайд от Atlassian: https://www.atlassian.com/git/tutorials
+
 #### Волны с помощью CSS
 Демо: https://codepen.io/goodkatz/pen/LYPGxQz<br>
 Про CSS анимации: https://html5book.ru/css3-animation/<br>
-Генератор cubic-bezier: http://roblaplaca.com/examples/bezierBuilder/<br><br>
+Генератор cubic-bezier: http://roblaplaca.com/examples/bezierBuilder/<br>
 
 Светлая/темная тема CSS https://codepen.io/Belkevich/pen/LYZaRgK<br>
 Geolocation API https://codepen.io/Belkevich/pen/yLNPKKm<br>
