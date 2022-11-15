@@ -1,6 +1,14 @@
 # Полезные ссылки
 Preloader для контента https://codepen.io/Belkevich/pen/rNYWbPa<br>
 
+#### Курсы GIT
+Курс от Javascript.ru: https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb <br>
+Учебник по GIT на русском: https://git-scm.com/book/ru/v2 <br>
+Practical Git For Everyday Professional Use: https://egghead.io/courses/practical-git-for-everyday-professional-use <br>
+Гайд от Atlassian: https://www.atlassian.com/git/tutorials <br>
+
+### Демо из постов
+
 Сделай без JS то, что можно сделать на CSS<br>
 Модальное окно https://codepen.io/una/pen/ObRKvq<br>
 Переключатели https://codepen.io/una/pen/jrxbZq<br>
@@ -8,14 +16,7 @@ Preloader для контента https://codepen.io/Belkevich/pen/rNYWbPa<br>
 Валидация формы https://codepen.io/una/pen/amGdzK<br>
 Аккордеон https://codepen.io/una/pen/EgLPmZ<br>
 
-### Демо из постов
 Camera API https://codepen.io/Belkevich/pen/NWNvLOw<br>
-
-#### Курсы GIT
-- Курс от Javascript.ru: https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
-- Учебник по GIT на русском: https://git-scm.com/book/ru/v2
-- Practical Git For Everyday Professional Use: https://egghead.io/courses/practical-git-for-everyday-professional-use
-- Гайд от Atlassian: https://www.atlassian.com/git/tutorials
 
 #### Волны с помощью CSS
 Демо: https://codepen.io/goodkatz/pen/LYPGxQz<br>
