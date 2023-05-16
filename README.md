@@ -8,6 +8,7 @@ Practical Git For Everyday Professional Use: https://egghead.io/courses/practica
 Гайд от Atlassian: https://www.atlassian.com/git/tutorials <br>
 
 ### Демо из постов
+Inputmode https://codepen.io/Belkevich/pen/GRYxBBR<br><br>
 
 Сделай без JS то, что можно сделать на CSS<br>
 Модальное окно https://codepen.io/una/pen/ObRKvq<br>
